@@ -1,0 +1,38 @@
+[
+  {
+    "ID": 1,
+    "Name": "Admin Bank Supervisor",
+    "Description": "Supervises administrative banking operations",
+    "KPIs": null
+  },
+  {
+    "ID": 2,
+    "Name": "General Manager",
+    "Description": "Manages overall operations and facilities",
+    "KPIs": null
+  },
+  {
+    "ID": 3,
+    "Name": "Corporate Communication Supervisor",
+    "Description": "Handles corporate communications and social media",
+    "KPIs": null
+  },
+  {
+    "ID": 4,
+    "Name": "HRBP Supervisor",
+    "Description": "Human Resources Business Partner supervisor",
+    "KPIs": null
+  },
+  {
+    "ID": 5,
+    "Name": "HR Operations Supervisor",
+    "Description": "Supervises HR operations and payroll",
+    "KPIs": null
+  },
+  {
+    "ID": 6,
+    "Name": "IT Supervisor",
+    "Description": "Manages IT projects and infrastructure",
+    "KPIs": null
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "fileInfo": "\u0026{mu:{state:0 sema:0} checked:{mu:{state:0 sema:0} read:{_:[] _:{} v:\u003cnil\u003e} dirty:map[] misses:0} formulaChecked:false zip64Entries:[] options:0xc0000c40e0 sharedStringItem:[] sharedStringsMap:map[] sharedStringTemp:\u003cnil\u003e sheetMap:map[KPIs:xl/worksheets/sheet3.xml Measurements:xl/worksheets/sheet4.xml Roles:xl/worksheets/sheet2.xml] streams:map[] tempFiles:{mu:{state:0 sema:0} read:{_:[] _:{} v:\u003cnil\u003e} dirty:map[] misses:0} xmlAttr:{mu:{state:0 sema:0} read:{_:[] _:{} v:0xc000412740} dirty:map[] misses:0} CalcChain:0xc0003980c0 CharsetReader:0xd8e700 Comments:map[] ContentTypes:\u003cnil\u003e DecodeVMLDrawing:map[] DecodeCellImages:\u003cnil\u003e Drawings:{mu:{state:0 sema:0} read:{_:[] _:{} v:\u003cnil\u003e} dirty:map[] misses:0} Path:data\\kpi_database.xlsx Pkg:{mu:{state:0 sema:0} read:{_:[] _:{} v:0xc0004128a0} dirty:map[] misses:0} Relationships:{mu:{state:0 sema:0} read:{_:[] _:{} v:0xc000412780} dirty:map[_rels/.rels:0xc0000680e8 xl/_rels/workbook.xml.rels:0xc0000680f8] misses:1} SharedStrings:\u003cnil\u003e Sheet:{mu:{state:0 sema:0} read:{_:[] _:{} v:\u003cnil\u003e} dirty:map[] misses:0} SheetCount:3 Styles:0xc00025e280 Theme:0xc0001fbc08 VMLDrawing:map[] VolatileDeps:\u003cnil\u003e WorkBook:0xc0001e0000}",
+  "filePath": "data\\kpi_database.xlsx",
+  "sheetList": [
+    "Roles",
+    "KPIs",
+    "Measurements"
+  ]
+}
